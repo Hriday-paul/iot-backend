@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# bobo_backend
+# IOT Backend
 =======
 # Setup -- TypeScript x Express x Node.js
 
@@ -9,26 +8,6 @@ Before you begin, ensure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/): Ensure that Node.js, preferably version 16 or higher, is installed on your system, as this project utilizes the latest versions of TypeScript and Nodemon.
 - [npm](https://www.npmjs.com/): npm is the package manager for Node.js and comes with the Node.js installation.
-
-## Installation
-
-Clone the repository to your local machine:
-
-```
-git clone https://github.com/Hriday-paul/ts-express-setup.git
-```
-
-Navigate to the project directory:
-
-```
-cd ts-express-setup/
-```
-
-Install the project dependencies including TypeScript and Nodemon:
-
-```
-npm i
-```
 
 ## Usage
 
@@ -58,4 +37,3 @@ The project structure is organized as follows:
 - `tsconfig.json`: TypeScript configuration
 
 You can customize the project configuration i nthe `tsconfig.json` file and adjust the server settings in the `src/index.ts` file.
->>>>>>> 311a0a3 (update)
